@@ -61,6 +61,9 @@ If you supply the extracted audio as the input audio for the Seedance 2 video, t
 **timing will be exact too**. Of course, you'll also end up with the original audio,
 if that's what you prefer.
 
+The result is more likely to be accurate when used with a video with a low amount of
+cuts. Five or less works really well, for instance.
+
 ### How to prompt Seedance 2
 
 Re-use the same prompt (and input images) as the original video, but add the following
